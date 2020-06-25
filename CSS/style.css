@@ -37,6 +37,10 @@ h1 {
     left: 300px;
 }
 
+.Mountain{
+    width: max-content;
+}
+
 .game-gif{
     width: "35%";
     border-radius: 50%;
