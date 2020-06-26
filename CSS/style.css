@@ -40,7 +40,9 @@ h1 {
 }
 
 .Mountain{
-    width: max-content;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
 }
 
 .game-gif{
